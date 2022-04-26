@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "## Скрытые файлы",
   "main": "index.js",
-  "homepage": "https://myagkiyBogdan.github.io/goit-js-hw--09",
+  "homepage": "https://myagkiybogdan.github.io/new-rep/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw--09/"
+    "build": "parcel build src/*.html --public-url /new-rep/"
   },
   "repository": {
     "type": "git",
